@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplecompiler.iml" filepath="$PROJECT_DIR$/.idea/modules/simplecompiler.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplecompiler-build.iml" filepath="$PROJECT_DIR$/.idea/modules/simplecompiler-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplecompiler-gakann1-master.iml" filepath="$PROJECT_DIR$/.idea/modules/simplecompiler-gakann1-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplecompiler-gakann1-master-build.iml" filepath="$PROJECT_DIR$/.idea/modules/simplecompiler-gakann1-master-build.iml" />
     </modules>
   </component>
 </project>

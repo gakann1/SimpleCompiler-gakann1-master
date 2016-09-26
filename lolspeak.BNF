@@ -1,5 +1,7 @@
 <lolspeak> 	    ::=	<noun_phrase> <verb> <noun_phrase>
-<noun_phrase>	::=	<article> <noun>
+<noun_phrase>	::=	<article> <adjectives> <noun>
 <verb>	 	    ::=	lovez  |  hatez  | ates
 <noun>	 	    ::=	dawg  |  kat  |  rat
 <article>	    ::=	a  | teh
+<adjectives>    ::=  fat  |  hungry  |  happy  |  mean
+<adverb>        ::=  accidently  |  quickly  |  secretly
